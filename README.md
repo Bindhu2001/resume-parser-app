@@ -90,5 +90,14 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # Resume Parser App
 
+<<<<<<< HEAD
 This app allows HR teams to upload resumes and auto-extract details like name, email, phone, skills, and experience.
 >>>>>>> f03a761b33c9d28daf769d1e5e87eb40262addd2
+=======
+This app helps HR teams to upload resumes and extract key details like name, email, phone, skills, and experience.
+
+## Features
+- Upload resumes
+- Auto-extract details
+- Store parsed data for HR use
+>>>>>>> cc2382c55ea49ff16ebc67bfeb371f281276d4ab
