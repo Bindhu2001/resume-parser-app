@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Resume Parser App
 
 This Laravel-based Resume Parser App allows HR teams to upload PDF resumes and automatically extract useful candidate information like name, email, phone, skills, and experience. The app then stores this data in a database and allows HR to edit or view the details through a user-friendly interface.
@@ -86,3 +87,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> d631cc2 (Initial commit with resume parser app)
+=======
+# Resume Parser App
+
+This app allows HR teams to upload resumes and auto-extract details like name, email, phone, skills, and experience.
+>>>>>>> f03a761b33c9d28daf769d1e5e87eb40262addd2
